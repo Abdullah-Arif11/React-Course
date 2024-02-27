@@ -1,0 +1,26 @@
+.head {
+  font-weight: 700;
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+input {
+  width: 100%;
+}
+.todo-container {
+  border: 1px solid black;
+  margin-top: 10px;
+}
+.items {
+  text-align: left;
+}
+.todo-row {
+  margin: 10px;
+}
+.col-2 {
+  text-align: left;
+}
+.todo-btn {
+  width: 80px;
+}
+
+

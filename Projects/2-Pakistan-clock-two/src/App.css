@@ -1,0 +1,15 @@
+h1 {
+  font-weight: 700;
+  font-size: 50px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.container {
+  margin-top: 10vh;
+  border: 1px solid black;
+}
+p {
+  font-size: 26px;
+  font-weight: 500;
+  margin-top: 10px;
+}

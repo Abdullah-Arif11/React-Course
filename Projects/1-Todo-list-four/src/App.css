@@ -1,0 +1,15 @@
+.todo-container {
+  border: 1px solid black;
+  margin-top: 10px;
+}
+.todo-row {
+  margin: 10px;
+}
+.col-2 {
+  text-align: left;
+}
+.todo-btn {
+  width: 80px;
+}
+
+
